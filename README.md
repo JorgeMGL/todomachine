@@ -2,6 +2,9 @@
 
 En esta ramama main se encuentran todos los archivos organizados, este proyecto fuen inspirado en el curso de React de Platzi.
 
+![image](https://github.com/JorgeMGL/todomachine/assets/55724437/9c6df6b4-75ff-4261-9a3a-66d714bfde9c)
+
+
 
 # Getting Started with Create React App
 
