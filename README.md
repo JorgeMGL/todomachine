@@ -1,3 +1,8 @@
+# Este proyecto está desplegado en esta url: https://jorgemgl.github.io/todomachine/
+
+En esta ramama main se encuentran todos los archivos organizados, este proyecto fuen inspirado en el curso de React de Platzi.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
